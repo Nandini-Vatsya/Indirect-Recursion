@@ -11,7 +11,8 @@ Recursion are mainly of two types depending on whether a function calls itself f
 <br>
 <b><ins>Indirect Recursion: </b></ins>In this recursion, there may be more than one functions and they are calling one another in a circular manner.<br>
 <br>
-![image](https://user-images.githubusercontent.com/125802204/234301120-baa844cf-081f-4fcb-8fde-8d7a18b82493.png)
+![image](https://user-images.githubusercontent.com/125802204/234303127-6e4dd75b-8476-47e0-a7ea-a092b8fb15ec.png)
+
 <br>
 From the above diagram fun(A) is calling for fun(B), fun(B) is calling for fun(C) and fun(C) is calling for fun(A) and thus it makes a cycle.<br>
 <br>
