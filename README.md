@@ -11,6 +11,7 @@ Recursion are mainly of two types depending on whether a function calls itself f
 <br>
 <b><ins>Indirect Recursion: </b></ins>In this recursion, there may be more than one functions and they are calling one another in a circular manner.<br>
 <br>
+![Capture34](https://user-images.githubusercontent.com/125802204/234304075-f9010b65-8ea7-49dd-b944-36fe8b5fd5c8.jpg)
 
 
 <br>
